@@ -13,6 +13,8 @@
 		1C2BB32E23E6AA5300203375 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C2BB32C23E6AA5300203375 /* Main.storyboard */; };
 		1C2BB33023E6AA5400203375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C2BB32F23E6AA5400203375 /* Assets.xcassets */; };
 		1C2BB33323E6AA5400203375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C2BB33123E6AA5400203375 /* LaunchScreen.storyboard */; };
+		1C2BB33B23E6AFEF00203375 /* My4TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2BB33A23E6AFEF00203375 /* My4TabBarController.swift */; };
+		1C2BB33D23E6B31A00203375 /* ForthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2BB33C23E6B31A00203375 /* ForthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1C2BB32F23E6AA5400203375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C2BB33223E6AA5400203375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C2BB33423E6AA5400203375 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C2BB33A23E6AFEF00203375 /* My4TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My4TabBarController.swift; sourceTree = "<group>"; };
+		1C2BB33C23E6B31A00203375 /* ForthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				1C2BB32623E6AA5300203375 /* AppDelegate.swift */,
 				1C2BB32823E6AA5300203375 /* SceneDelegate.swift */,
 				1C2BB32A23E6AA5300203375 /* ViewController.swift */,
+				1C2BB33A23E6AFEF00203375 /* My4TabBarController.swift */,
+				1C2BB33C23E6B31A00203375 /* ForthViewController.swift */,
 				1C2BB32C23E6AA5300203375 /* Main.storyboard */,
 				1C2BB32F23E6AA5400203375 /* Assets.xcassets */,
 				1C2BB33123E6AA5400203375 /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				1C2BB32B23E6AA5300203375 /* ViewController.swift in Sources */,
 				1C2BB32723E6AA5300203375 /* AppDelegate.swift in Sources */,
+				1C2BB33B23E6AFEF00203375 /* My4TabBarController.swift in Sources */,
 				1C2BB32923E6AA5300203375 /* SceneDelegate.swift in Sources */,
+				1C2BB33D23E6B31A00203375 /* ForthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
